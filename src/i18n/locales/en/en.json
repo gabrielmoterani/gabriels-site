@@ -1,0 +1,54 @@
+{
+    "header": {
+        "posts": "Posts",
+        "services": "Services",
+        "about": "About"
+    },
+    "hero": {
+        "title": "Does your company ready to tech Teams?",
+        "subtitle": "Prepare your tech to grow faster than ever!",
+        "button": "Consulting Services"
+    },
+    "sections": {
+        "about": {
+            "button": "Lets do it!",
+            "title1": "Understand how software development works",
+            "title2": "Build a strategy and hire your dream team!",
+            "title3": "Grow your tech with the best best prectices and techniques",
+            "subtitle1": "To build something you need to understand how to do it! We teach you how to become a tech project manager and how to give your developers the best!",
+            "subtitle2": "We will analyse your company, build strategy, and define the best way to make your company the best tech solution of the market!",
+            "subtitle3" : "A good tech team is all about organization and project managing! Let's put your company in the path of growing in speed of light!"
+        },
+        "posts": {
+            "title": "Latest from our newsletter in Pingback!",
+            "more": "View More"
+        },
+        "pricing": {
+            "services": "Services",
+            "button": "Lets do it!",
+            "title1": "Developers Hunting Service",
+            "title2": "Project Managing Consultant",
+            "title3": "Learn How To Develop Techs", 
+            "1": {
+                "1": "Search and contact talents",
+                "2": "Tests and Interviews your talents",
+                "3": "Onboarding process"
+            }, 
+            "2": {
+                "1": "Learn how software develop works",
+                "2": "Build the best strategy",
+                "3": "Implement good managing process"
+            },
+            "3": {
+                "1": "Learn how to build websites",
+                "2": "Create amazing apps",
+                "3": "Be ready for the work anywhere!"
+            }
+        },
+        "subscribe": {
+            "title": "Gabriel's newsletter",
+            "type": "type your e-mail",
+            "button": "Subscribe Now!"
+        }
+    }
+}
